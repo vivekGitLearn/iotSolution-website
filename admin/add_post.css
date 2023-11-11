@@ -1,0 +1,79 @@
+.p{
+    margin-top: 10px;
+    margin-left: 45%;
+    color:peru;
+}
+.title{
+    margin-top: 40px;
+    font-weight: 600;
+
+}
+.til{
+    height: 40px;
+    width: 60vw;
+    margin-left:72px;
+ }
+
+ .court{
+    margin-top: 15px;
+    font-weight: 600;
+ }
+
+ .cou{
+    height: 40px;
+    width:30%;
+    margin-left:65px;
+ }
+ .case{
+    margin-top: 15px;
+    font-weight: 600;
+ }
+ .casetype{
+    height: 40px;
+    width:30%;
+    margin-left:35px;
+ }
+ .month{
+    margin-top: 15px;
+    font-weight: 600;
+ }
+ .mon{
+    height: 40px;
+    width:30% ;
+    margin-left:58px;
+ }
+ .keyword{
+    height: 40px;
+    width:30% ;
+    margin-left:44px;
+ }
+ .jude{
+    margin-top: 15px;
+    font-weight: 600;
+ }
+ .inp{
+    height: 40px;
+    width:30%;
+    margin-left:10px;
+ }
+
+ .post{
+    margin-top: 15px;
+    font-weight: 600;
+ }
+ .form-control{
+    height: 500px;
+    width:80vw ;
+ }
+ .image{
+    margin-top: 20px;
+    font-weight: 600;
+ }
+ .img{
+    height: 40px;
+    width:30% ;
+    font-weight: 600;
+    margin-left:5px;
+ }
+
+ 

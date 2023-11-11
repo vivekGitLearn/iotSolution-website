@@ -1,0 +1,27 @@
+.lib-articles{
+    padding: 18px;
+    margin-top: 23px;
+    /* position: relative; */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Automatically adjusts columns */
+    grid-gap: 10px; /* Gap between boxes */
+    /* height: 455px; */
+    background-color: rgb(242 239 222);
+}
+.lib-article{
+    margin-top: 25px;
+    display:block;
+}
+.lib-article img{
+    width: 200px;
+} 
+.lib-article-content{
+   
+    align-self: center;
+    padding: 25px;
+}
+.lib-article-content a{
+    text-decoration: none;
+    /* color: var(--main-bg-color); */
+    color: black;
+}

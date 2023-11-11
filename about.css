@@ -1,0 +1,23 @@
+.head{
+
+    background-color:green;
+}
+.about{
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+.about_content{
+    margin-top: 5%;
+    font-style: italic;
+    font-weight: 600;
+}
+.p{
+    margin-top: 26px;
+    margin-left: 40%;
+
+}
+.n{
+    margin-top: 5px;
+    margin-left: 40%;
+    font-weight: bold;
+}

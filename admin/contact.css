@@ -1,0 +1,52 @@
+.head{
+   
+    background-color: #256D85;
+}
+
+.p{
+    padding-top: 2%;
+    padding-bottom: 2%;
+   font-weight: 700;
+   margin-left: 20px;
+   color:white;
+   
+}
+
+.con{
+    margin-top: 3%;
+    margin-left: 43%;
+    color:brown;
+    font-weight:800 ;
+    
+    
+}
+
+
+.email{
+    margin-top:3% ;
+    margin-left: 25%;
+    color: green;
+}
+
+.law{
+    margin-top: 3px;
+    margin-left: 40%;
+    font-weight: 700;
+    }
+
+.phone{
+    margin-top: 3%;
+    margin-left: 45%;
+    color:purple;
+}
+
+.phone1{
+margin-top: 3%;
+margin-left: 44%;
+font-weight: 700;
+}
+
+.telegram{
+    margin-top: 7%;
+    color: blue;
+}
